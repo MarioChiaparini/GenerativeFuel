@@ -1,6 +1,10 @@
 # GenerativeFuel
 
+![ProjetoCodeMatter](https://github.com/MarioChiaparini/GenerativeFuel/assets/45772937/d8104fd2-c739-43fb-93e6-ac4d0b1e91dc)
+
+
 Introduction
+
 
 GenerativeFuel is a cutting-edge repository that combines the power of deep generative models with domain-specific knowledge in molecular science to discover novel molecules with potential high-energy applications. By utilizing advanced deep learning architectures, this tool streamlines the process of molecular design and offers a promising pathway to the discovery of new fuels.
 
