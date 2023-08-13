@@ -24,7 +24,7 @@ Installation:
 
 bash
 Copy code
-git clone https://github.com/yourusername/GenerativeFuel.git
+git clone https://github.com/MarioChiaparini/GenerativeFuel.git
 cd GenerativeFuel
 pip install -r requirements.txt
 Usage:
@@ -50,4 +50,4 @@ GenerativeFuel is a product of collaborative efforts among molecular scientists,
 
 Discover the fuel of the future with GenerativeFuel. 🚀🧪
 
-(Note: Remember to adjust the placeholder https://github.com/yourusername/GenerativeFuel.git with the actual repository URL and other details as necessary.)
+(Note: Remember to adjust the placeholder https://github.com/MarioChiaparini/GenerativeFuel.git with the actual repository URL and other details as necessary.)
