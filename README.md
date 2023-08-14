@@ -1,7 +1,6 @@
 # GenerativeFuel
 
-![ProjetoCodeMatter](https://github.com/MarioChiaparini/GenerativeFuel/assets/45772937/d8104fd2-c739-43fb-93e6-ac4d0b1e91dc)
-
+![Green and White Sustainability and Environment Modern Presentation](https://github.com/MarioChiaparini/GenerativeFuel/assets/45772937/3e48a9e6-c56f-47fc-bb7e-d0b794273849)
 
 Introduction
 
